@@ -1,0 +1,78 @@
+[
+  {
+    "_id": "66281f72c569b0c4dbae8526",
+    "id": 1,
+    "name": "Denim Jeans",
+    "category": "Jeans",
+    "price": 44.99,
+    "color": "Blue",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "DenimStyle",
+    "inventory": 110
+  },
+  {
+    "_id": "66281f72c569b0c4dbae8527",
+    "id": 2,
+    "name": "Printed T-Shirt",
+    "category": "T-Shirts",
+    "price": 14.99,
+    "color": "White",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "GoldNavy",
+    "inventory": 150
+  },
+  {
+    "_id": "66281f72c569b0c4dbae8528",
+    "id": 3,
+    "name": "AirJordan Min",
+    "category": "Shoes",
+    "price": 129.99,
+    "color": "Red",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "brand": "Abbibas",
+    "inventory": 75
+  },
+  {
+    "_id": "66281f72c569b0c4dbae8529",
+    "id": 4,
+    "name": "Casual Joggers",
+    "category": "Joggers",
+    "price": 49.99,
+    "color": "Faded",
+    "sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "brand": "Moadster",
+    "inventory": 120
+  },
+  {
+    "_id": "66281f72c569b0c4dbae852a",
+    "id": 5,
+    "name": "Winter Coats",
+    "category": "Coats",
+    "price": 99.99,
+    "color": "Black",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Bacys",
+    "inventory": 80
+  }
+]
